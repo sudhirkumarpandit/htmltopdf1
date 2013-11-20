@@ -1,5 +1,10 @@
 html2pdf.it
 ===========
+
+
+
+![Codeship Status](https://www.codeship.io/projects/f8cdb1f0-3411-0131-89e5-2e66c10f8e27/status)
+
 Using PhantomJS to generate pdfs, via a webservice. Runs using node.js.
 
 See it in action at: [html2pdf.it](http://www.html2pdf.it).
